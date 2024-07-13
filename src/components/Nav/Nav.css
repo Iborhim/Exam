@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 30px;
+    gap: 200px;
+}
+
+.container_header{
+    display: flex;
+    align-items: center;
+}
+
+.container_header > img{
+    width: 30px;
+    height: 30px;
+    margin-right: 12px;
+}
+
+.container_center{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.container_center > img{
+    width: 60px;
+    height: 60px;
+}
+
+.Single_logo{
+    width: 30px;
+    height: 30px;
+}
